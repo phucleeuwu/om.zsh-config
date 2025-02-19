@@ -27,7 +27,7 @@ zinit depth"1" wait lucid light-mode for \
       OMZP::gitignore \
       OMZL::clipboard.zsh \
       OMZP::git \
-      OMZP::git-auto-fetch \    
+      OMZP::git-auto-fetch    
 
 # ────────────────────────────────────────────────────────────
 # 🔌 Plugin Configurations
