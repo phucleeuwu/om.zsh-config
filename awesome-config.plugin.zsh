@@ -1,4 +1,4 @@
-# 🐚 Oh My Zsh + Zinit Turbo
+# 🐚Oh My Zsh + 🌻Zinit Turbo
 zinit wait lucid light-mode for \
     OMZP::brew \
     OMZP::sudo \
@@ -11,7 +11,6 @@ zinit wait lucid light-mode for \
     OMZP::gitignore \
     OMZL::clipboard.zsh \
     OMZP::git \
-    OMZP::autojump \
 
 # ────────────────────────────────────────────────────────────
 # 🔌 Plugin Configurations
