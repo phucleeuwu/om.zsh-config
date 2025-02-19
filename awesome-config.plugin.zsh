@@ -16,7 +16,6 @@ zinit depth"1" wait lucid light-mode for \
       phucleeuwu/aliases--.zsh \
       phucleeuwu/catppuccin-fzf.zsh \
       phucleeuwu/om.zsh-aliases \
-      phucleeuwu/om.zsh-plugins \
       OMZP::brew \
       OMZP::sudo \
       OMZP::eza \
