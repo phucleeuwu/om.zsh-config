@@ -1,18 +1,3 @@
-# 🐚Oh My Zsh + 🌻Zinit Turbo
-zinit depth"1" wait lucid light-mode for \
-      OMZP::brew \
-      OMZP::sudo \
-      OMZP::eza \
-      OMZP::zoxide \
-      OMZP::alias-finder \
-      OMZP::fzf \
-      OMZP::copypath \
-      OMZP::copyfile \
-      OMZP::gitignore \
-      OMZL::clipboard.zsh \
-      OMZP::git \
-      OMZP::git-auto-fetch    
-
 # ────────────────────────────────────────────────────────────
 # 🔌 Plugin Configurations
 # ────────────────────────────────────────────────────────────
