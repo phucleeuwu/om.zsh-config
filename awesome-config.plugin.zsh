@@ -1,6 +1,5 @@
 #  Oh My Zsh + Zinit Turbo
 zinit wait lucid light-mode for \
-    OMZP::starship \
     OMZP::brew \
     OMZP::sudo \
     OMZP::eza \
