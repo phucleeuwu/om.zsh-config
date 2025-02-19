@@ -1,17 +1,34 @@
 # 🐚Oh My Zsh + 🌻Zinit Turbo
 zinit depth"1" wait lucid light-mode for \
-    OMZP::brew \
-    OMZP::sudo \
-    OMZP::eza \
-    OMZP::zoxide \
-    OMZP::alias-finder \
-    OMZP::fzf \
-    OMZP::copypath \
-    OMZP::copyfile \
-    OMZP::gitignore \
-    OMZL::clipboard.zsh \
-    OMZP::git \
-    OMZP::git-auto-fetch \
+  atinit"zicompinit; zicdreplay; unalias zi" \
+      zsh-users/zsh-syntax-highlighting \
+  atload"_zsh_autosuggest_start" \
+      zsh-users/zsh-autosuggestions \
+  blockf atpull'zinit creinstall -q .' \
+      clarketm/zsh-completions \
+  pick"themes/catppuccin_mocha-zsh-syntax-highlighting.zsh" \
+      catppuccin/zsh-syntax-highlighting \
+      jeffreytse/zsh-vi-mode \
+      aloxaf/fzf-tab \
+      hlissner/zsh-autopair \
+      fdellwing/zsh-bat \
+      phucleeuwu/yazi-zoxide.zsh \
+      phucleeuwu/aliases--.zsh \
+      phucleeuwu/catppuccin-fzf.zsh \
+      phucleeuwu/om.zsh-aliases \
+      phucleeuwu/om.zsh-plugins \
+      OMZP::brew \
+      OMZP::sudo \
+      OMZP::eza \
+      OMZP::zoxide \
+      OMZP::alias-finder \
+      OMZP::fzf \
+      OMZP::copypath \
+      OMZP::copyfile \
+      OMZP::gitignore \
+      OMZL::clipboard.zsh \
+      OMZP::git \
+      OMZP::git-auto-fetch \    
 
 # ────────────────────────────────────────────────────────────
 # 🔌 Plugin Configurations
