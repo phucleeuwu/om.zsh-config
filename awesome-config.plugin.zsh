@@ -3,7 +3,6 @@ zinit wait lucid light-mode for \
     OMZP::brew \
     OMZP::sudo \
     OMZP::eza \
-    svn \
     OMZP::zoxide \
     OMZP::alias-finder \
     OMZP::fzf \
