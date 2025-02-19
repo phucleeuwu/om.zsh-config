@@ -1,4 +1,4 @@
-#  Oh My Zsh + Zinit Turbo
+# 🐚 Oh My Zsh + Zinit Turbo
 zinit wait lucid light-mode for \
     OMZP::brew \
     OMZP::sudo \
@@ -13,7 +13,7 @@ zinit wait lucid light-mode for \
     OMZP::git \
 
 # ────────────────────────────────────────────────────────────
-#  Plugin Configurations
+# 🔌 Plugin Configurations
 # ────────────────────────────────────────────────────────────
 #  `eza` (Enhanced `ls`)
 zstyle ':omz:plugins:eza' 'show-group' no  
