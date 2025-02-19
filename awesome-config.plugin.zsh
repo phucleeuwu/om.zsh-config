@@ -11,6 +11,7 @@ zinit wait lucid light-mode for \
     OMZP::gitignore \
     OMZL::clipboard.zsh \
     OMZP::git \
+    OMZP::autojump \
 
 # ────────────────────────────────────────────────────────────
 # 🔌 Plugin Configurations
