@@ -1,4 +1,4 @@
-# ⚡ om.zsh-config
+# ⚡ OhMyZsh plugins config
 
 A modular and optimized Zsh configuration that enhances your terminal experience with better performance, plugin management, and usability.
 
