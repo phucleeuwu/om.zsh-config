@@ -2,7 +2,7 @@
 # 🔌 Plugin Configurations
 # ────────────────────────────────────────────────────────────
 # 🌻 `zinit update`
-alias zinit-nice update='rm -rf ~/.local/share/zinit && exec zsh'
+alias phucleeuwu='rm -rf ~/.local/share/zinit && exec zsh'
 
 # 🍺 `brew`
 export HOMEBREW_NO_ANALYTICS=1
