@@ -1,9 +1,6 @@
 # ────────────────────────────────────────────────────────────
 # 🔌 Plugin Configurations
 # ────────────────────────────────────────────────────────────
-# 🤬 `thefuck`
-alias fk='fuck'
-
 # 🍺 `brew`
 export HOMEBREW_NO_ANALYTICS=1
 
